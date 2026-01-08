@@ -1,4 +1,6 @@
-
+/** @tailwind base; */
+/** @tailwind components; */
+/** @tailwind utilities; */
 import React, { useState, useEffect, useCallback } from 'react';
 import Sidebar from './components/Sidebar';
 import PredictionCard from './components/PredictionCard';
